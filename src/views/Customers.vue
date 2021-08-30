@@ -1,5 +1,6 @@
 <template>
   <div>
+    <p>coucou</p>
     <h1>List of Customers Page {{ pageNumber }}/{{ totalPage }}</h1>
 
     <router-link to="/customers/add">Ajouter un nouveau customer</router-link>
